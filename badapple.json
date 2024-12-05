@@ -1,0 +1,352 @@
+[
+    {
+        "song": "リスペク風神",
+        "difficulty": "DX",
+        "accuracy": "100.0545%",
+        "dxRating": 296,
+        "combo": 13.7
+    },
+    {
+        "song": "アルカンシエル",
+        "difficulty": "DX",
+        "accuracy": "100.5213%",
+        "dxRating": 292,
+        "combo": 13.0
+    },
+    {
+        "song": "私のドッペルゲンガー",
+        "difficulty": "DX",
+        "accuracy": "100.0288%",
+        "dxRating": 285,
+        "combo": 13.2
+    },
+    {
+        "song": "系ぎて",
+        "difficulty": "DX",
+        "accuracy": "99.1291%",
+        "dxRating": 284,
+        "combo": 13.8
+    },
+    {
+        "song": "1000年生きてる",
+        "difficulty": "DX",
+        "accuracy": "99.9562%",
+        "dxRating": 282,
+        "combo": 13.4
+    },
+    {
+        "song": "Play merrily NEO",
+        "difficulty": "DX",
+        "accuracy": "100.4592%",
+        "dxRating": 279,
+        "combo": 12.9
+    },
+    {
+        "song": "魂のルフラン",
+        "difficulty": "DX",
+        "accuracy": "100.1595%",
+        "dxRating": 279,
+        "combo": 12.9
+    },
+    {
+        "song": "ULTRA SYNERGY MATRIX",
+        "difficulty": "DX",
+        "accuracy": "98.1604%",
+        "dxRating": 278,
+        "combo": 14.0
+    },
+    {
+        "song": "魔法少女とチョコレゐト",
+        "difficulty": "DX",
+        "accuracy": "99.2773%",
+        "dxRating": 278,
+        "combo": 13.5
+    },
+    {
+        "song": "ずんだもんの朝食　〜目覚ましずんラップ〜",
+        "difficulty": "DX",
+        "accuracy": "99.5554%",
+        "dxRating": 277,
+        "combo": 13.2
+    },
+    {
+        "song": "キャットラビング",
+        "difficulty": "DX",
+        "accuracy": "100.2520%",
+        "dxRating": 277,
+        "combo": 12.8
+    },
+    {
+        "song": "まにまに",
+        "difficulty": "DX",
+        "accuracy": "100.1919%",
+        "dxRating": 277,
+        "combo": 12.8
+    },
+    {
+        "song": "Last Kingdom",
+        "difficulty": "DX",
+        "accuracy": "98.6943%",
+        "dxRating": 276,
+        "combo": 13.8
+    },
+    {
+        "song": "MAGENTA POTION",
+        "difficulty": "DX",
+        "accuracy": "98.5770%",
+        "dxRating": 276,
+        "combo": 13.8
+    },
+    {
+        "song": "Complex Mind",
+        "difficulty": "DX",
+        "accuracy": "98.2902%",
+        "dxRating": 275,
+        "combo": 13.8
+    },
+    {
+        "song": "Believe the Rainbow",
+        "difficulty": "標準",
+        "accuracy": "100.5732%",
+        "dxRating": 301,
+        "combo": 13.4
+    },
+    {
+        "song": "Back 2 Back",
+        "difficulty": "標準",
+        "accuracy": "100.1786%",
+        "dxRating": 296,
+        "combo": 13.7
+    },
+    {
+        "song": "INTERNET OVERDOSE",
+        "difficulty": "DX",
+        "accuracy": "100.0215%",
+        "dxRating": 291,
+        "combo": 13.5
+    },
+    {
+        "song": "ウミユリ海底譚",
+        "difficulty": "標準",
+        "accuracy": "100.2450%",
+        "dxRating": 290,
+        "combo": 13.4
+    },
+    {
+        "song": "蒼空に舞え、墨染の桜",
+        "difficulty": "標準",
+        "accuracy": "100.0218%",
+        "dxRating": 289,
+        "combo": 13.4
+    },
+    {
+        "song": "tape/stop/night",
+        "difficulty": "DX",
+        "accuracy": "100.6413%",
+        "dxRating": 288,
+        "combo": 12.8
+    },
+    {
+        "song": "『んっあっあっ。』",
+        "difficulty": "DX",
+        "accuracy": "100.5230%",
+        "dxRating": 288,
+        "combo": 12.8
+    },
+    {
+        "song": "きゅうくらりん",
+        "difficulty": "DX",
+        "accuracy": "99.6013%",
+        "dxRating": 287,
+        "combo": 13.7
+    },
+    {
+        "song": "フォニイ",
+        "difficulty": "DX",
+        "accuracy": "100.2075%",
+        "dxRating": 287,
+        "combo": 13.3
+    },
+    {
+        "song": "弱虫モンブラン",
+        "difficulty": "標準",
+        "accuracy": "100.5191%",
+        "dxRating": 285,
+        "combo": 12.7
+    },
+    {
+        "song": "Tell Your World",
+        "difficulty": "標準",
+        "accuracy": "100.2598%",
+        "dxRating": 285,
+        "combo": 13.2
+    },
+    {
+        "song": "拝啓ドッペルゲンガー",
+        "difficulty": "標準",
+        "accuracy": "100.5238%",
+        "dxRating": 283,
+        "combo": 12.6
+    },
+    {
+        "song": "猛進ソリストライフ！",
+        "difficulty": "標準",
+        "accuracy": "100.5227%",
+        "dxRating": 283,
+        "combo": 12.6
+    },
+    {
+        "song": "星空パーティーチューン",
+        "difficulty": "DX",
+        "accuracy": "99.1000%",
+        "dxRating": 282,
+        "combo": 13.7
+    },
+    {
+        "song": "チエルカ／エソテリカ",
+        "difficulty": "DX",
+        "accuracy": "100.8276%",
+        "dxRating": 281,
+        "combo": 12.5
+    },
+    {
+        "song": "Cthugha",
+        "difficulty": "DX",
+        "accuracy": "100.7132%",
+        "dxRating": 281,
+        "combo": 12.5
+    },
+    {
+        "song": "ENERGY SYNERGY MATRIX",
+        "difficulty": "標準",
+        "accuracy": "100.0002%",
+        "dxRating": 280,
+        "combo": 13.0
+    },
+    {
+        "song": "ARROW",
+        "difficulty": "標準",
+        "accuracy": "99.8218%",
+        "dxRating": 280,
+        "combo": 13.3
+    },
+    {
+        "song": "三妖精SAY YA!!!",
+        "difficulty": "DX",
+        "accuracy": "99.7617%",
+        "dxRating": 279,
+        "combo": 13.3
+    },
+    {
+        "song": "ガラテアの螺旋",
+        "difficulty": "標準",
+        "accuracy": "99.5546%",
+        "dxRating": 279,
+        "combo": 13.3
+    },
+    {
+        "song": "ロータスイーター",
+        "difficulty": "DX",
+        "accuracy": "99.5277%",
+        "dxRating": 279,
+        "combo": 13.3
+    },
+    {
+        "song": "脳天直撃",
+        "difficulty": "DX",
+        "accuracy": "100.1913%",
+        "dxRating": 279,
+        "combo": 12.9
+    },
+    {
+        "song": "終点",
+        "difficulty": "標準",
+        "accuracy": "100.6385%",
+        "dxRating": 279,
+        "combo": 12.4
+    },
+    {
+        "song": "ラグトレイン",
+        "difficulty": "DX",
+        "accuracy": "99.9797%",
+        "dxRating": 278,
+        "combo": 13.2
+    },
+    {
+        "song": "フィクサー",
+        "difficulty": "標準",
+        "accuracy": "99.4038%",
+        "dxRating": 277,
+        "combo": 13.4
+    },
+    {
+        "song": "終点",
+        "difficulty": "DX",
+        "accuracy": "98.8748%",
+        "dxRating": 276,
+        "combo": 13.8
+    },
+    {
+        "song": "最強STRONGER",
+        "difficulty": "DX",
+        "accuracy": "100.0214%",
+        "dxRating": 276,
+        "combo": 12.8
+    },
+    {
+        "song": "ヴァンパイア",
+        "difficulty": "DX",
+        "accuracy": "99.1692%",
+        "dxRating": 276,
+        "combo": 13.4
+    },
+    {
+        "song": "Knight Rider",
+        "difficulty": "DX",
+        "accuracy": "98.5767%",
+        "dxRating": 276,
+        "combo": 13.8
+    },
+    {
+        "song": "#狂った民族２ PRAVARGYAZOOQA",
+        "difficulty": "DX",
+        "accuracy": "100.4987%",
+        "dxRating": 275,
+        "combo": 12.7
+    },
+    {
+        "song": "でらっくmaimai♪てんてこまい!",
+        "difficulty": "DX",
+        "accuracy": "100.3410%",
+        "dxRating": 275,
+        "combo": 12.7
+    },
+    {
+        "song": "猫猫の宇宙論",
+        "difficulty": "DX",
+        "accuracy": "100.3385%",
+        "dxRating": 275,
+        "combo": 12.7
+    },
+    {
+        "song": "おちゃめ機能",
+        "difficulty": "標準",
+        "accuracy": "98.8907%",
+        "dxRating": 275,
+        "combo": 13.7
+    },
+    {
+        "song": "天火明命",
+        "difficulty": "標準",
+        "accuracy": "99.2853%",
+        "dxRating": 274,
+        "combo": 13.3
+    },
+    {
+        "song": "Luminaria",
+        "difficulty": "DX",
+        "accuracy": "100.6944%",
+        "dxRating": 274,
+        "combo": 12.2
+    }
+]
