@@ -5,8 +5,8 @@ import os
 import json
 from bilibili_api import search, video, Credential, HEADERS
 
-SESSDATA = "249cf650%2C1748866682%2C572c7%2Ac1CjCeM98Wmzw7yExxVC9Y0dE3CQcV4UTik5rB1E-l2RypGK2zJXhyNWaplshyoIr0_mkSVlBkamdiWTkwWDBFb2gtUGNWdUI3LU9tU1RUSHNIdzBtVmM0MTlac3ZtaUJHUkRXazgxTkIwaE9qWHlRZGI0S0RDNU5NeG9PYkN2bC1VSkhHS3BOWU93IIEC"
-BILI_JCT = "94efcf02895b460325508a0567fbe8c8"
+SESSDATA = ""
+BILI_JCT = ""
 BUVID3 = ""
 
 # 下载函数
